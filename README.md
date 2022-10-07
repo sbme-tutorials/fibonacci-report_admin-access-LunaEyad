@@ -144,7 +144,7 @@ int main () {
 }
 `````````````````````````````````
 
-##summary to compare the time and space complexity :
+## Summary to compare the time and space complexity:
 1. recursion                           
 2. recursion with memoization         
 3. Iterative Method
