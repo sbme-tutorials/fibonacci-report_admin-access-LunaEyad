@@ -84,7 +84,8 @@ int main()
 }
 `````````````````````````````````
 
-###the 4th solution:
+### the 4th solution:
+
 *using matrix multiplication; if we multiply the matrix [[1, 1], [1, 0]],  
 n-1 times then the element at index [0][0] will be the nth Fibonacci number*
 
