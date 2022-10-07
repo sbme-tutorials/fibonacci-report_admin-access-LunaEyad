@@ -89,7 +89,8 @@ int main()
 *using matrix multiplication; if we multiply the matrix [[1, 1], [1, 0]],  
 n-1 times then the element at index [0][0] will be the nth Fibonacci number*
 
-!(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOuZHagByevaH8lgEJ5Mumzxc7l4r6OlBtMw&usqp=CAU)
+![photo_2022-10-07_06-44-24](https://user-images.githubusercontent.com/103345380/194487652-3de13ac5-e2a3-424f-bf2a-fa141080f59a.jpg)
+
 
 This  is a [YouTube video ](https://youtu.be/QtFVY7ffl_s) deriving this equation
 `````````````````````````````````
